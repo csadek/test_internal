@@ -1,0 +1,1 @@
+echo y| %1\AlarisDCPromo %2 Local
